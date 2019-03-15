@@ -1,0 +1,159 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9662CDB4-202F-431E-9C5A-AB3025876C95",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 380,
+  "clippingMaskMode": 0,
+  "do_objectID": "DEF15CBE-646A-445F-8891-6B581D563EA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51B81A9E-3364-4242-9128-68CD5E0BB51E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFDEBD67-0290-46AD-82A2-577CDC52DC00",
+    "height": 28,
+    "width": 260,
+    "x": 0,
+    "y": 64590
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8A7990F2-2575-4A27-AD26-50BBFB0163FD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1BBD93B0-215F-4283-A2D8-D11FE802155A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DE000BE-1F52-407D-8924-DD92F1831063"
+    },
+    {
+      "class": "text",
+      "id": "6EF67F71-136E-4682-A62E-9ED2E50570E7"
+    },
+    {
+      "class": "rectangle",
+      "id": "8E5A822A-5C3E-414B-9659-88B899C4DC1D"
+    }
+  ],
+  "name": "widgets/form-elements/input/search/pill/32/hint-text/active",
+  "nameIsFixed": true,
+  "originalObjectID": "E08D80F0-FE33-41D4-8A8A-D8A5254BA5F3",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6EF67F71-136E-4682-A62E-9ED2E50570E7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6EF67F71-136E-4682-A62E-9ED2E50570E7_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1BBD93B0-215F-4283-A2D8-D11FE802155A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1BBD93B0-215F-4283-A2D8-D11FE802155A_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1DE000BE-1F52-407D-8924-DD92F1831063_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA7EC5C4-EAA9-47E1-9C62-5452DFB9E318",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F0064C1-3C0F-473F-A8F4-87DBBC13CFAB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5BF6F51F-F1AB-40F6-9730-81D5E7D9998E",
+    "guides": [
+    ]
+  }
+}

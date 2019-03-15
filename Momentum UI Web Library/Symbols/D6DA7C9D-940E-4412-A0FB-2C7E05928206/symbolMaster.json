@@ -1,0 +1,159 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1333333333333333,
+    "do_objectID": "D306676C-5F12-4485-A878-28490CA0737D",
+    "green": 0.1333333333333333,
+    "red": 0.1333333333333333
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 312,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6DA7C9D-940E-4412-A0FB-2C7E05928206",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADBFA247-1AA9-47EA-A66D-3E052916D98A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5976D4AB-EFF8-4964-8DED-3CE6966861A9",
+    "height": 32,
+    "width": 260,
+    "x": 0,
+    "y": 19409
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5099D7C8-E280-473F-B07A-1BAC0339B9CD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C66D1E65-FAEC-4677-B5DD-4ADE1FC05C70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7135CB2-94D3-457D-976A-FE7D08FBADDB"
+    },
+    {
+      "class": "text",
+      "id": "1B887750-1C23-43F7-B273-9D38A95BA46E"
+    },
+    {
+      "class": "rectangle",
+      "id": "DCF4CA6A-EA65-48A8-854D-4DFA66F25554"
+    }
+  ],
+  "name": "dark/form-elements/gray/input/search/rectangle/32/default/active",
+  "nameIsFixed": true,
+  "originalObjectID": "E08D80F0-FE33-41D4-8A8A-D8A5254BA5F3",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7135CB2-94D3-457D-976A-FE7D08FBADDB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1B887750-1C23-43F7-B273-9D38A95BA46E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C66D1E65-FAEC-4677-B5DD-4ADE1FC05C70_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C66D1E65-FAEC-4677-B5DD-4ADE1FC05C70_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1B887750-1C23-43F7-B273-9D38A95BA46E_textStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "016CEFC6-681E-470D-A447-5742E2E4D007",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37B2CEA8-4C8C-4959-88F3-EBB763CB2CBF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DCCF3510-CD86-48FB-9EFD-1410AF589264",
+    "guides": [
+    ]
+  }
+}

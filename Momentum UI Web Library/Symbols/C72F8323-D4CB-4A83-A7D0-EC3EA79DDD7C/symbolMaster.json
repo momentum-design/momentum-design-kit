@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1333333333333333,
+    "do_objectID": "4AF3A573-6EA4-46EA-B0D2-84011DD040EF",
+    "green": 0.1333333333333333,
+    "red": 0.1333333333333333
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 314,
+  "clippingMaskMode": 0,
+  "do_objectID": "C72F8323-D4CB-4A83-A7D0-EC3EA79DDD7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B19742B9-EC7B-456F-BFB7-E7957F1A69C0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8BE192A-42E5-4269-A66E-76E164ADA691",
+    "height": 36,
+    "width": 260,
+    "x": 600,
+    "y": 20653
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2EE0B7AC-E1EA-4368-904F-649C1D1EEF8D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DA91B71A-5A14-432B-B7CD-941712077D0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "998F7FDC-48D0-4298-8152-E6B619C4463A"
+    },
+    {
+      "class": "text",
+      "id": "F3218A36-B154-47C8-999F-915E1E2DE7A7"
+    }
+  ],
+  "name": "dark/form-elements/outline/dropdown/default/rectangle/hover",
+  "nameIsFixed": true,
+  "originalObjectID": "7CE5ECF0-31A7-46A6-9DE4-813CC8E694D2",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "998F7FDC-48D0-4298-8152-E6B619C4463A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F3218A36-B154-47C8-999F-915E1E2DE7A7_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA91B71A-5A14-432B-B7CD-941712077D0C_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA91B71A-5A14-432B-B7CD-941712077D0C_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F3218A36-B154-47C8-999F-915E1E2DE7A7_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0EEB4BD-BD41-4EDA-A80D-58BF6F3F8DE4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54269441-F33A-4F97-ABE8-70C6E91F9DE6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 10
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9D58ECCD-8D31-4AA1-A0A1-C88DDB6E67A5",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C43229A6-5C3A-451D-A5ED-EB84A05DD94A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5D42142-2C9E-4ABE-A472-D6367B5825C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "51659F8D-AFDD-4C64-BBAD-C20E32F337A7",
+    "height": 15.42857142857156,
+    "width": 14,
+    "x": 20,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "49689BEC-CFD0-4436-A971-898E847E9B74"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7D3F5AB-E5E8-4EAE-A7A5-2329BC13A116"
+    }
+  ],
+  "name": "apple logo",
+  "nameIsFixed": true,
+  "originalObjectID": "DD72F062-01D7-4785-89C1-4D30EAD0A97A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B167FD60-94A0-4243-8EAC-12B5ECAD758A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "511AAF9F-8220-402B-BBC4-CB5BFDD1B8A7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.1372549019607843,
+          "red": 0.1372549019607843
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_67650f63-ef01-4951-9117-8d1e481c120d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 14
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5bcb5b5b-4530-4298-a998-34d63ef09945",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

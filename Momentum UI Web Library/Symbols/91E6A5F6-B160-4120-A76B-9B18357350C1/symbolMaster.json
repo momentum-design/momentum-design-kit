@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1333333333333333,
+    "do_objectID": "72DA1428-8FCF-4BF2-95F2-D0361E538BA8",
+    "green": 0.1333333333333333,
+    "red": 0.1333333333333333
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 441,
+  "clippingMaskMode": 0,
+  "do_objectID": "91E6A5F6-B160-4120-A76B-9B18357350C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDAF1ABE-C42B-4F16-8224-284DA1D6B5B3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20542089-CDC3-4185-9740-DC73EBEA34DB",
+    "height": 36,
+    "width": 260,
+    "x": 1500,
+    "y": 21797
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A7D8282C-3648-4DC5-BBBF-7D75610A19FA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DA8A22DB-6211-448F-832A-B374FBCE4BFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75128F07-8D6A-47CA-91E3-FE062EDC5DCB"
+    },
+    {
+      "class": "text",
+      "id": "E654D91F-4E1D-42DC-864E-D262E44CD855"
+    }
+  ],
+  "name": "dark/form-elements/outline/input/search/rectangle/36/hint-text/searching",
+  "nameIsFixed": true,
+  "originalObjectID": "7FDFA581-DF9E-44CB-AA50-16567B141A93",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E654D91F-4E1D-42DC-864E-D262E44CD855_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA8A22DB-6211-448F-832A-B374FBCE4BFB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75128F07-8D6A-47CA-91E3-FE062EDC5DCB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA8A22DB-6211-448F-832A-B374FBCE4BFB_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E654D91F-4E1D-42DC-864E-D262E44CD855_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34154968-C3E8-4994-8BCA-2BF952752609",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6131711E-3CBF-40AE-A835-AC90D7BD294A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 10
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C2133551-7B0D-44BA-8C5C-C0CE80684515",
+    "guides": [
+    ]
+  }
+}

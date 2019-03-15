@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1333333333333333,
+    "do_objectID": "375E7627-E6F1-4358-9901-4E01EE65C83A",
+    "green": 0.1333333333333333,
+    "red": 0.1333333333333333
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 350,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACBC9514-51FE-43CC-B704-8D9EB65218D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9567CD39-CA12-4C2E-AF02-E1B257F6504F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35572B82-35A4-42A0-94E3-F28EC2A8ED4C",
+    "height": 36,
+    "width": 260,
+    "x": 1800,
+    "y": 20769
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "653B66AA-677C-4616-A90C-DA98C1995B06",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "30DA72E0-0F6D-4DE3-8B04-BA81CEEC8520"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "431441E8-0BCA-4BC0-973A-AC3A7202C3D5"
+    },
+    {
+      "class": "text",
+      "id": "97085363-6B2E-4AF4-B0F9-7F77FDEEC3BA"
+    }
+  ],
+  "name": "dark/form-elements/outline/input/default/pill/typed",
+  "nameIsFixed": true,
+  "originalObjectID": "7DD82258-D711-481B-B98B-72CC43E60D66",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "30DA72E0-0F6D-4DE3-8B04-BA81CEEC8520_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "30DA72E0-0F6D-4DE3-8B04-BA81CEEC8520_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "431441E8-0BCA-4BC0-973A-AC3A7202C3D5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "97085363-6B2E-4AF4-B0F9-7F77FDEEC3BA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "97085363-6B2E-4AF4-B0F9-7F77FDEEC3BA_textStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "821439A9-6929-4DE6-B75E-2EC891B89728",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EF669559-3F56-423D-B5A9-8DD47DF9DEAB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 10
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "27F23091-75F5-4951-8463-C730A1E2B3F7",
+    "guides": [
+    ]
+  }
+}

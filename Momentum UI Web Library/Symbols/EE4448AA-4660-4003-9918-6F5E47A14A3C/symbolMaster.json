@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1333333333333333,
+    "do_objectID": "8CC3A9A0-9DD0-4299-8A9C-5216134206A9",
+    "green": 0.1333333333333333,
+    "red": 0.1333333333333333
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 351,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE4448AA-4660-4003-9918-6F5E47A14A3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A669BAB-5C7D-44D7-8B37-2B4485C1C49C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DF8149D-33E1-4BB1-AF9A-F6A7A0F531E1",
+    "height": 36,
+    "width": 260,
+    "x": 600,
+    "y": 20537
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "525FB956-290C-42A6-A6E5-D19B616F554E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "822EBB60-3384-4E5A-8B00-1701D7E3B2F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA3AC3BA-305A-46D8-9262-F49431862107"
+    },
+    {
+      "class": "text",
+      "id": "4890DFEF-4E11-4CE7-BD0C-1F5553B35113"
+    }
+  ],
+  "name": "dark/form-elements/outline/dropdown/default/pill/hover",
+  "nameIsFixed": true,
+  "originalObjectID": "7CE5ECF0-31A7-46A6-9DE4-813CC8E694D2",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "822EBB60-3384-4E5A-8B00-1701D7E3B2F5_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4890DFEF-4E11-4CE7-BD0C-1F5553B35113_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BA3AC3BA-305A-46D8-9262-F49431862107_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "822EBB60-3384-4E5A-8B00-1701D7E3B2F5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4890DFEF-4E11-4CE7-BD0C-1F5553B35113_textStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5A7524A-0D64-461A-9C4B-6E60477CFB7A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "22E1C67F-EA1D-4948-89BE-3A7BA1C96AF5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 10
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B50008F5-A317-4482-A190-69664A77C005",
+    "guides": [
+    ]
+  }
+}
