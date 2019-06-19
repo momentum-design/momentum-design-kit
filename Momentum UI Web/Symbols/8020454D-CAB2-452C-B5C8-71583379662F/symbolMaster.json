@@ -1,0 +1,159 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.12,
+    "green": 0.1056,
+    "red": 0.0912
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 369,
+  "clippingMaskMode": 0,
+  "do_objectID": "8020454D-CAB2-452C-B5C8-71583379662F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECF041EE-966B-4BA8-9370-81165A8699BA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB2B0F11-C8FE-450B-AA4C-A7665D7C7DD4",
+    "height": 32,
+    "width": 260,
+    "x": 0,
+    "y": 20545
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "875AD556-1347-44C7-B85A-4F4AD6961B7E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "349286E8-1FFA-4C09-BFA6-AF9A58157F80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "620F8FC7-99BA-4251-AFCA-5C2BDEFDE172"
+    },
+    {
+      "class": "text",
+      "id": "4D5041E7-FE7F-4246-B31E-5B9F70C72476"
+    },
+    {
+      "class": "rectangle",
+      "id": "218FC71E-97BB-4F46-B9A3-5BCD906D2323"
+    }
+  ],
+  "name": "dark/form-elements/gray/input/search/pill/32/hint-text/active",
+  "nameIsFixed": true,
+  "originalObjectID": "E08D80F0-FE33-41D4-8A8A-D8A5254BA5F3",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "620F8FC7-99BA-4251-AFCA-5C2BDEFDE172/C32DC9AB-07B0-464D-919C-6198F8F63BF0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "4D5041E7-FE7F-4246-B31E-5B9F70C72476_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "349286E8-1FFA-4C09-BFA6-AF9A58157F80_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4D5041E7-FE7F-4246-B31E-5B9F70C72476_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "620F8FC7-99BA-4251-AFCA-5C2BDEFDE172_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2AAA35F-55BF-4090-B378-43DD53F6CD75",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3CDECEA-1625-40FA-BCE7-548421671DFA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1CC19B92-E2B6-4BAD-8116-C9511B28E842",
+    "guides": [
+    ]
+  }
+}

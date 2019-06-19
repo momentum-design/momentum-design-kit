@@ -1,0 +1,150 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1333333333333333,
+    "do_objectID": "176F5937-46AC-4DD8-9183-56E1DE2FAFBB",
+    "green": 0.1333333333333333,
+    "red": 0.1333333333333333
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 560,
+  "clippingMaskMode": 0,
+  "do_objectID": "77540605-5BB8-4EAF-A904-D39B05E57DC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1128847-5217-482E-B81C-3A21D297D1E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9B10A6F-B58A-498D-951A-9F4D3A7BC8DE",
+    "height": 32,
+    "width": 260,
+    "x": 4500,
+    "y": 20667
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B271C00-CDDE-4337-8C2F-6ABF2CD9118B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "95F10F00-77C5-42F4-B0D8-7555B1FFE252"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1867D55-280B-47BF-AB6D-9138A5F51396"
+    },
+    {
+      "class": "rectangle",
+      "id": "A4D090C2-7FA8-4534-B587-4486D2FD53B3"
+    },
+    {
+      "class": "text",
+      "id": "F3BBFCD6-3A00-45CF-964D-629BF708AB77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFAF04C0-E017-46B0-8768-191250CA758A"
+    }
+  ],
+  "name": "dark/form-elements/outline/input/search/rectangle/32/hint-text/typing",
+  "nameIsFixed": true,
+  "originalObjectID": "027270FF-055A-43C2-93A7-D594E39D633C",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F3BBFCD6-3A00-45CF-964D-629BF708AB77_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EFAF04C0-E017-46B0-8768-191250CA758A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C1867D55-280B-47BF-AB6D-9138A5F51396_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C1867D55-280B-47BF-AB6D-9138A5F51396/D13481B6-E5C2-4C75-84E4-0594F14B57C4_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "EFAF04C0-E017-46B0-8768-191250CA758A/CA4B6186-6709-44FA-9B50-3004F1D545C1_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "95F10F00-77C5-42F4-B0D8-7555B1FFE252_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F3BBFCD6-3A00-45CF-964D-629BF708AB77_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E92C3633-5F3F-42E5-A7AF-8A609F4338B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42297142-5C9F-4FBA-9194-1FBBB669A748",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 10
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "519D614F-1617-4B26-A107-EBE9D05D57DB",
+    "guides": [
+    ]
+  }
+}

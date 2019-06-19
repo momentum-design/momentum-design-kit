@@ -1,0 +1,159 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "79A1B30C-8400-43BF-9626-43676E275C6C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 384,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAFB01B2-F3B5-495B-9C8C-D200D3D2459D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DCD4120-162D-49A3-A242-8FEBBF3536F3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A3B0BC6-2911-4FDD-868B-F1D5A328B6FD",
+    "height": 44,
+    "width": 320,
+    "x": 360,
+    "y": 49774
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "78E268B9-A6E6-44D5-84BD-6BA744E3D401",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "49A39384-73DD-4744-899B-ADB55BAEBD4F"
+    },
+    {
+      "class": "text",
+      "id": "DC0A1D5D-5F5A-4756-909A-042E7ECB4BB0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3859F918-0517-4F4E-9EA6-9AB6E0404116"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8113A5DB-0078-4D75-9B00-CF9F54915F25"
+    },
+    {
+      "class": "text",
+      "id": "CA31B44D-712F-411F-A4B3-7C011D605BA5"
+    }
+  ],
+  "name": "light/list/single/icon/both/hover",
+  "nameIsFixed": true,
+  "originalObjectID": "8000121F-D568-4A6A-80D8-7027F31A843C",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8113A5DB-0078-4D75-9B00-CF9F54915F25_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CA31B44D-712F-411F-A4B3-7C011D605BA5_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "8113A5DB-0078-4D75-9B00-CF9F54915F25/C0E0F1A3-CD30-42DD-87BB-3DE71F7D52FB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "49A39384-73DD-4744-899B-ADB55BAEBD4F_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3859F918-0517-4F4E-9EA6-9AB6E0404116/C0E0F1A3-CD30-42DD-87BB-3DE71F7D52FB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3859F918-0517-4F4E-9EA6-9AB6E0404116_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CA31B44D-712F-411F-A4B3-7C011D605BA5_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F73A23C3-08DF-43B7-9FBA-063294A7E940",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F3322439-3EDE-4E74-B7C3-E9085254EFBC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 14
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D7042C7E-8DE2-4813-813B-0E3368827CBF",
+    "guides": [
+    ]
+  }
+}

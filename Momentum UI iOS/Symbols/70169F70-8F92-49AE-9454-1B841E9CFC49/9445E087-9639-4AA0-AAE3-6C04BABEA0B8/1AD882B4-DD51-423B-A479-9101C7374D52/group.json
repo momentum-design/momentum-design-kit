@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AD882B4-DD51-423B-A479-9101C7374D52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63457B37-1CD2-4356-B533-663046AF0E01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8929162A-DF5D-4836-A51B-4E2F57A77EDE",
+    "height": 36,
+    "width": 65,
+    "x": 292,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D688ECE9-09D9-4A1C-BAA8-7AC4DADBD58B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53F375C1-4DA1-45EF-B2D9-9B91428D3B51"
+    }
+  ],
+  "name": "cisco",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CF46A445-25C2-496B-A253-CCC06600348B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.14714714714715,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "BACABC5D-EC80-46E3-A06C-151983B35F66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 31,
+            "enabled": 1,
+            "modelID": "constraint_6ab23116-a585-4c24-baeb-99fba0f6b3b5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 60
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c28c935f-7b3a-4f48-bb44-158ae6e31541",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
