@@ -1,0 +1,120 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E0C6666A-B99D-4B53-9701-0102A30DCA71",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 713,
+  "clippingMaskMode": 0,
+  "do_objectID": "3185DDA3-3974-43C4-B519-AB0B3195097D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06794C79-F0E9-4544-98F2-9CA4A27443B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF459304-6E94-42EE-8E63-5568330EB22E",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 1316
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B39D2515-DA0F-4FA5-A743-1549893503AB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "668DF1AA-A0EE-4569-A88A-3341A699E989"
+    },
+    {
+      "class": "oval",
+      "id": "518A126B-0F39-40C3-BC2D-E61D0229B68B"
+    }
+  ],
+  "name": "core/avatar/person/single/40/presence/dark",
+  "nameIsFixed": true,
+  "originalObjectID": "C2BFCB0A-8F61-4E82-A338-58CF1E82CC3B",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "518A126B-0F39-40C3-BC2D-E61D0229B68B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "668DF1AA-A0EE-4569-A88A-3341A699E989_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6356E49C-76CB-4862-AF3D-27CF837ECAC0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.11111111111111,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "25104B77-F314-4526-B763-AE52A62B6342",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F264BEDA-39E7-4B80-873F-24E1E4BB690A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A0527132-0949-4FA4-8B50-998336265DC2",
+    "guides": [
+    ]
+  }
+}

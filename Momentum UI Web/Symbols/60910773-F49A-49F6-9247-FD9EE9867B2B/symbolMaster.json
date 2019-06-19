@@ -1,0 +1,167 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.12,
+    "green": 0.1056,
+    "red": 0.0912
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 396,
+  "clippingMaskMode": 0,
+  "do_objectID": "60910773-F49A-49F6-9247-FD9EE9867B2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9649F08-0045-49B4-9E04-AAA6850DAC35",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26031B0B-19ED-4E8F-8E48-8D6ABA6C9AFF",
+    "height": 36,
+    "width": 320,
+    "x": 1080,
+    "y": 24317
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2ADD9414-7A13-4AFA-83A2-81194B871FCD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EB4396E1-3B5C-43F8-BE5E-A7EA7899723A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4F53FDE-4178-4716-8521-F2A1EC9785D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "068AF1FD-437D-4F5B-A620-34F52AD4216F"
+    },
+    {
+      "class": "text",
+      "id": "AE927C96-6E6A-4628-AEB9-C7EFC055F4CB"
+    }
+  ],
+  "name": "dark/list/other/header/with-icon",
+  "nameIsFixed": true,
+  "originalObjectID": "73769191-0E3D-46F0-9C93-6E1648A6722B",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AE927C96-6E6A-4628-AEB9-C7EFC055F4CB_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "068AF1FD-437D-4F5B-A620-34F52AD4216F/DADB8485-A8D8-4F15-9034-FEF64274BFDA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "EB4396E1-3B5C-43F8-BE5E-A7EA7899723A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "AE927C96-6E6A-4628-AEB9-C7EFC055F4CB_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "068AF1FD-437D-4F5B-A620-34F52AD4216F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A4F53FDE-4178-4716-8521-F2A1EC9785D2_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EADAC6EB-F47E-499F-9387-0DAEB778722A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42998056-2060-412A-81B6-E56377392864",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 14
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1738F751-FA5C-4A87-8ECC-3B57339EA580",
+    "guides": [
+    ]
+  }
+}

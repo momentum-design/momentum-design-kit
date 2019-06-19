@@ -1,0 +1,159 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CBD36690-4062-4880-AE68-4AD885EE1A96",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 797,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B77D164-B289-47BA-87FC-411FFA55E92B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75ACD41B-37F9-47D2-8C33-B13A89788FC4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2EF4624-B8F9-4939-8D75-6E63CDFA8482",
+    "height": 48,
+    "width": 320,
+    "x": 360,
+    "y": 70077
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9322898F-8906-4535-81E1-B4263FA84B2C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0D259A55-C39C-4AE8-963A-26D51D1A6312"
+    },
+    {
+      "class": "group",
+      "id": "5229554F-3F4D-41B7-A221-EA2D82447370"
+    },
+    {
+      "class": "text",
+      "id": "93541A2D-0552-4CFD-81AA-A3E6DB927B6B"
+    }
+  ],
+  "name": "widgets/list/space-list/single/schedule/hover",
+  "nameIsFixed": true,
+  "originalObjectID": "C26F4F18-676F-4654-91D3-074D2336EF71",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "93541A2D-0552-4CFD-81AA-A3E6DB927B6B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "93541A2D-0552-4CFD-81AA-A3E6DB927B6B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "0D259A55-C39C-4AE8-963A-26D51D1A6312_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C59E4543-9383-47F1-937B-6F642EA89E91/F7A2817B-EA85-4EB9-BECF-B54EA8DCBF87_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C59E4543-9383-47F1-937B-6F642EA89E91_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DEA70AF-E06B-41F2-968A-BC0EC62B74D9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1934ED4-9BB5-4150-ABB7-052ABCBC5862",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 14
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DA5A7D59-EB49-40BC-97DF-A91E60D8E1D4",
+    "guides": [
+    ]
+  }
+}

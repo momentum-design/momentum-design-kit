@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "07AF4CE2-8F2B-4FC7-A070-FA73ED5EB925",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 329,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FFEE886-BAA4-466A-BE0B-87BC79D5CF19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A703729-9C57-4DDE-A736-45FAD1713E5A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A58FDA4-4722-4C3D-8F0A-B1C22175981C",
+    "height": 28,
+    "width": 71,
+    "x": 111,
+    "y": 33530
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CBB5E82C-734C-40CD-AA53-D1886C575688",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A4BD2EE5-C6BF-461C-87A6-9FE5ABE82242"
+    },
+    {
+      "class": "text",
+      "id": "8399314D-DA22-464C-8E6A-B259064E8EE6"
+    }
+  ],
+  "name": "light/buttons/pill/default/28/mint/normal",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "A4BD2EE5-C6BF-461C-87A6-9FE5ABE82242_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8399314D-DA22-464C-8E6A-B259064E8EE6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "8399314D-DA22-464C-8E6A-B259064E8EE6_textStyle"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CAC8FA30-D513-4962-B06C-55BCCE9EBCC3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CB0E3C0A-12C4-4600-9B5F-465F24C95BAA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "79CE25FD-58DF-4B52-9779-F7F432E757FE",
+    "guides": [
+    ]
+  }
+}
