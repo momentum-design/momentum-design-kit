@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "page",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "05840C9A-FE4B-47D1-B73B-A87E1DA8C623",
+  "do_objectID": "23806010-1E40-4638-8DF0-D978F81B1BE7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,28 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 12,
-    "y": 12
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -315,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon L 16",
-  "nameIsFixed": true,
-  "originalObjectID": "764AEE4E-5F44-4DEF-92B0-5896233BF5BE",
-  "overrideValues": [
+  "layers": [
   ],
-  "resizingConstraint": 9,
+  "name": "---",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -45,12 +53,15 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C0CE80ED-BFEE-43D6-89D8-16B63F692420",
   "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
+    "com.sncr.sketch": {
+      "layoutArtboards": 0
     }
   },
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -226,
+    "guides": [
+    ]
+  }
 }
