@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.12,
+    "green": 0.1056,
+    "red": 0.0912
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 395,
+  "clippingMaskMode": 0,
+  "do_objectID": "E805FDA9-5634-4EED-871D-57B6149FB38A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB9A6EF8-ADAE-4DBB-A609-9580D0F40D87",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2457DFF-22A9-4790-8857-A16374C8743C",
+    "height": 36,
+    "width": 260,
+    "x": 1200,
+    "y": 22133
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8DB484F8-8F7B-49EC-AE65-A382A05A94EC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "508A2DC5-3721-494F-9C03-42C486D2CABD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1CF8168D-5DD6-4803-8734-3A23765320F5"
+    },
+    {
+      "class": "text",
+      "id": "6377E2F5-CE18-4A5E-A0CA-AE4FBC6B946B"
+    }
+  ],
+  "name": "dark/form-elements/outline/dropdown/default/rectangle/press",
+  "nameIsFixed": true,
+  "originalObjectID": "1FF69F23-482C-4CB1-9522-66EA8859A6F2",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "1CF8168D-5DD6-4803-8734-3A23765320F5/DADB8485-A8D8-4F15-9034-FEF64274BFDA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "508A2DC5-3721-494F-9C03-42C486D2CABD_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "6377E2F5-CE18-4A5E-A0CA-AE4FBC6B946B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "1CF8168D-5DD6-4803-8734-3A23765320F5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6377E2F5-CE18-4A5E-A0CA-AE4FBC6B946B_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACD8E2F1-FBC4-432B-A1DD-3C152EFA0850",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E89BC5F-FCAB-481B-81EC-15119B3387C1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 10
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6D9D9FBE-7726-4D25-8579-7C5CC9502998",
+    "guides": [
+    ]
+  }
+}

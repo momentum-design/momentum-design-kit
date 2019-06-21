@@ -1,0 +1,162 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.72,
+    "blue": 0.1568627450980392,
+    "green": 0.1568627450980392,
+    "red": 0.1568627450980392
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 715,
+  "clippingMaskMode": 0,
+  "do_objectID": "46CA4B5E-317C-497C-B24C-AC728C358858",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 22952
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E0287BC9-AA3D-4B7F-8B65-7456C9E192E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9818D9DF-F989-4C39-B582-CAC491FC6394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "405E6321-F4A2-43E9-915D-C9B5E7C39963"
+    },
+    {
+      "class": "text",
+      "id": "75AA73F9-03D8-4EAC-BC25-E95C7DADFDAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A8D9CC4-4652-4452-9517-E37E09E927E9"
+    }
+  ],
+  "name": "dark/list/space-list/dual/unread/hover",
+  "nameIsFixed": true,
+  "originalObjectID": "C1939653-DD4D-4109-BF96-618CA445B6A6",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9818D9DF-F989-4C39-B582-CAC491FC6394/CEFB905A-F881-41E1-8724-9A785A9ACBE3_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "75AA73F9-03D8-4EAC-BC25-E95C7DADFDAA_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "E0287BC9-AA3D-4B7F-8B65-7456C9E192E3_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75AA73F9-03D8-4EAC-BC25-E95C7DADFDAA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3A8D9CC4-4652-4452-9517-E37E09E927E9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "405E6321-F4A2-43E9-915D-C9B5E7C39963_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9818D9DF-F989-4C39-B582-CAC491FC6394_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "381732E2-4115-4F4E-95FA-B06BE014495B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 14
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

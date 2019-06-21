@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.12,
+    "green": 0.1056,
+    "red": 0.0912
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 434,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF78233F-FDC0-468E-9361-07056FA2D9A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D07D81D-F906-46A8-9C07-7C2104ED224F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5EC46AF0-191D-46FB-830C-DD22A027C1B6",
+    "height": 36,
+    "width": 260,
+    "x": 900,
+    "y": 21901
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "70F255AB-0A20-443E-AC1C-C2DA1209A686",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8DD249CF-F2E5-4885-9B17-FC28BF1D765E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CC9C32F-E58D-4250-9164-AF4CE1FE5EA1"
+    },
+    {
+      "class": "text",
+      "id": "B3DF50CC-65EC-4303-B4A2-E40D8F65EDB2"
+    }
+  ],
+  "name": "dark/form-elements/outline/dropdown/calendar/hover",
+  "nameIsFixed": true,
+  "originalObjectID": "1CCE04B5-EA87-4B56-A96C-E69773515CE1",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "0CC9C32F-E58D-4250-9164-AF4CE1FE5EA1/03192AE1-F026-418B-B7C7-DADCA45EA22D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "8DD249CF-F2E5-4885-9B17-FC28BF1D765E_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B3DF50CC-65EC-4303-B4A2-E40D8F65EDB2_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B3DF50CC-65EC-4303-B4A2-E40D8F65EDB2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0CC9C32F-E58D-4250-9164-AF4CE1FE5EA1_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8AA2CDB7-396C-4867-A9A5-8E0DF1968126",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBB9B57D-0B30-4727-8C74-B1E6BF5E9384",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 10
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E0B18C80-2B03-4131-8845-FD61E41F1188",
+    "guides": [
+    ]
+  }
+}

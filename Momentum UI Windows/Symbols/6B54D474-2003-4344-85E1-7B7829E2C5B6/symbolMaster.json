@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A92E2C2B-58FA-4141-8FC2-C9FD192C4C8B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 461,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B54D474-2003-4344-85E1-7B7829E2C5B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B464295-4F09-4FB2-BEC5-1F16E0CD5FF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0361B09-58DC-4A72-967C-38889BB15235",
+    "height": 142,
+    "width": 1024,
+    "x": 2128,
+    "y": 54366
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D0E5F172-E3A4-48C2-BE4A-646E4D8227C9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DE384DD3-4EB3-45C7-B22A-2951228860A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93FB6F71-5785-47D6-9E33-D4A03DFFBCA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89A76FA8-DDE0-4BE0-92B0-A52B09EBF360"
+    }
+  ],
+  "name": "ui-templates/light/top-bar/big/roster",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "89A76FA8-DDE0-4BE0-92B0-A52B09EBF360_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "93FB6F71-5785-47D6-9E33-D4A03DFFBCA5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DE384DD3-4EB3-45C7-B22A-2951228860A8_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65A4B5C4-CE61-49CA-92FD-EA9EAD8D1F1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E4A6A95-2D79-40CC-A960-57F74BE50A43",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "923F67B4-E8B2-46D7-B66E-9A06374BE8AB",
+    "guides": [
+    ]
+  }
+}
