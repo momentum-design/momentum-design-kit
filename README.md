@@ -4,7 +4,11 @@ The Momentum UI Kits are a collection of Sketch Libraries of [Momentum Design Sy
 
 Install and always stay up to date by subscribing to the Sketch Library links below.
 
-*Copy/paste the URLs into any browser address bar*
+*Copy/paste the URLs below into any browser address bar*
+
+**Colors Library** - `sketch://add-library?url=https%3A%2F%2Fdownloads.momentum-ui.com%2Fui-kits%2Fmomentum-colors-sketch-rss.xml`
+
+**Icons Library** - `sketch://add-library?url=https%3A%2F%2Fdownloads.momentum-ui.com%2Fui-kits%2Fmomentum-icons-sketch-rss.xml`
 
 **Web Library** - `sketch://add-library?url=https%3A%2F%2Fdownloads.momentum-ui.com%2Fui-kits%2Fmomentum-ui-web-sketch-rss.xml`
 
