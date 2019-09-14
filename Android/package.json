@@ -1,6 +1,6 @@
 {
   "name": "@momentum-ui/android-sketch-kit",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Momentum Design System Android ui sketch kit",
   "main": "Momentum UI Android.sketch",
   "repository": {
@@ -18,6 +18,10 @@
   ],
   "author": "Cisco Systems, Inc.",
   "license": "MIT",
+  "scripts": {
+    "postPublish": "node ../tools/postpublish.js",
+    "publishRSS": "node ../tools/publishRSS.js"
+  },
   "bugs": {
     "url": "https://github.com/momentum-design/momentum-design-kit/issues"
   },

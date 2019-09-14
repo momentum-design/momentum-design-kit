@@ -1,10 +1,11 @@
 {
   "name": "@momentum-ui/macos-sketch-kit",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Momentum Design System MacOS ui sketch kit",
   "main": "Momentum UI MacOS.sketch",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postPublish": "node ../tools/postpublish.js",
+    "publishRSS": "node ../tools/publishRSS.js"
   },
   "repository": {
     "type": "git",

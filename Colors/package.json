@@ -1,10 +1,11 @@
 {
   "name": "@momentum-ui/color-sketch-palettes",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Momentum Design System sketch color palettes",
   "main": "Momentum Design - Full Palette.sketchpalette",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postPublish": "node ../tools/postpublish.js",
+    "publishRSS": "node ../tools/publishRSS.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/momentum-design/momentum-design-kit/issues"
   },
-  "homepage": "https://momentum.design"
+  "homepage": "https://momentum.design",
+  "private": true
 }

@@ -1,0 +1,19 @@
+{
+  "packages": ["Android", "Icons", "iOS", "MacOS", "Web", "Windows"],
+  "version": "independent",
+  "npmClient": "npm",
+  "command": {
+    "publish": {
+      "allowBranch": ["master"],
+      "conventionalCommits": true,
+      "ignoreChanges": [
+        "**/tools/**",
+        "**/config/**",
+        "**/package-lock.json",
+        "**/package.json",
+        "**/*.md"
+      ],
+      "message": "chore(release): publish libraries [skip ci]"
+    }
+  }
+}

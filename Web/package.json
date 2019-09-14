@@ -1,10 +1,11 @@
 {
   "name": "@momentum-ui/web-sketch-kit",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Momentum Design System web ui sketch kit",
   "main": "Momentum UI Web.sketch",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postPublish": "node ../tools/postpublish.js",
+    "publishRSS": "node ../tools/publishRSS.js"
   },
   "repository": {
     "type": "git",
