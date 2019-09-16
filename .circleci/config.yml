@@ -31,7 +31,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
       - add_ssh_keys:
           fingerprints:
-            - "8d:03:46:48:16:a2:7f:d4:97:2f:20:a1:fe:0e:81:35"
+            - "14:e1:b6:2d:f2:c6:e6:db:98:53:d9:56:3b:e2:ca:97"
       - run:
           name: Configure git defaults
           command: git config user.email $GH_EMAIL && git config user.name $GH_USER
