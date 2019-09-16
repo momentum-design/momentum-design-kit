@@ -15,7 +15,7 @@ do
   echo $directory
 
   # yarn prepublishOnly
-  npx publish
+  # npx publish
 done
 
 commitMessage=""
