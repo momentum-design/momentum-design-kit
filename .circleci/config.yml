@@ -11,7 +11,7 @@ jobs:
   merge: 
     <<: *image_defaults
     steps:
-      - run: echo success && exit 1
+      - run: echo success && exit 0
 
   release:
     <<: *image_defaults
@@ -37,7 +37,7 @@ workflows:
   merge:
     jobs:
       - merge
-      
+
   weekly_release:
     triggers:
       - schedule:
