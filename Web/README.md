@@ -1,6 +1,5 @@
 # Momentum Design System UI Kits
 
-[Momentum Design System](https://momentum.design) provides UI libraries to assist in creating Cisco Webex designs. The libraries are here to optimize our designers’ workflow as they provide the most commonly used components across Webex products. We have five libraries: one for each platform that our products are built for. Each library is constantly evolving as the functionality and needs of our applications change. The following guide will help set up the libraries to automatically update in Sketch whenever we push any updates.
 
 ## Requirements
 
