@@ -5,7 +5,7 @@
   "main": "Momentum UI Windows.sketch",
   "scripts": {
     "postPublish": "node ../tools/postpublish.js",
-    "publishRSS": "node ./tools/publishRSS.js"
+    "publishRSS": "node ../tools/publishRSS.js"
   },
   "repository": {
     "type": "git",
