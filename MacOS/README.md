@@ -9,10 +9,11 @@
 Download the most recent version of [Sketch](https://www.sketchapp.com/).
 <br />
 
-### Cisco Sans fonts
+### CiscoSans fonts
 
 1. Download the [Cisco Sans fonts](https://github.com/momentum-design/momentum-ui/tree/master/core/fonts) from the Momentum UI repository
 2. Install the Cisco Sans fonts on your system
+
 
 <br />
 <br />
