@@ -27,6 +27,13 @@ jobs:
 
   workflows:
   version: 2
-  test:
+  weekly_release:
+    triggers:
+      - schedule:
+          cron: "30 5 * * 5"
+          filters:
+            branches:
+              only:
+                - master
     jobs:
       - release
