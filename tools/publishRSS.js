@@ -8,7 +8,7 @@ const version = argv.v;
 const date = new Date();
 const timeStamp = Math.round(date.getTime() / 1000);
 const publishDate = date.toUTCString();
-const fileName = `Momentum ${name !== 'Icons' ? 'UI' : ''} ${name}`;
+const fileName = `Momentum ${name !== 'Icons' ? 'UI ' : ''}${name}`;
 const kebabName = kebabCase(fileName.toLowerCase());
 const rssFileName = `${kebabName}-sketch-rss.xml`;
 

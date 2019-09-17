@@ -11,7 +11,7 @@
     "clean": "rimraf node_modules/ **/node_modules/",
     "commit": "npx git-cz",
     "prepublishOnly": "yarn build:lib",
-    "postPublish": "node ../tools/postpublish.js",
+    "postPublish": "node ./tools/postpublish.js",
     "publishRSS": "node ./tools/publishRSS.js",
     "release": "./tools/release.sh"
   },
