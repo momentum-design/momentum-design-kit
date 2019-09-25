@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.4.0...@momentum-ui/icons-sketch-kit@1.5.0) (2019-09-25)
+
+
+### Bug Fixes
+
+* **deskphone-warning_16:** small fix to warning part ([5e48197](https://github.com/momentum-design/momentum-design-kit/commit/5e48197))
+* **hardware-warning:** small tweak to warning part ([655e9d4](https://github.com/momentum-design/momentum-design-kit/commit/655e9d4))
+* **other-number-warning_16:** small fix to warning part ([e34348a](https://github.com/momentum-design/momentum-design-kit/commit/e34348a))
+
+
+### Features
+
+* **endpoint-blocked_16:** added ([ebfe7b4](https://github.com/momentum-design/momentum-design-kit/commit/ebfe7b4))
+* **endpoint-warning_16:** added ([4ebbe92](https://github.com/momentum-design/momentum-design-kit/commit/4ebbe92))
+* **mirror_12:** added ([15abf8f](https://github.com/momentum-design/momentum-design-kit/commit/15abf8f))
+
+
+
+
+
 # [1.4.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.3.0...@momentum-ui/icons-sketch-kit@1.4.0) (2019-09-23)
 
 
