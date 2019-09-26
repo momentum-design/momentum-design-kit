@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.5.0...@momentum-ui/icons-sketch-kit@1.6.0) (2019-09-26)
+
+
+### Features
+
+* **cloud_20:** added ([7294f63](https://github.com/momentum-design/momentum-design-kit/commit/7294f63))
+* **phone-reply_16:** added ([3231232](https://github.com/momentum-design/momentum-design-kit/commit/3231232))
+* **phone-reply-all_16:** added ([38e874f](https://github.com/momentum-design/momentum-design-kit/commit/38e874f))
+
+
+
+
+
 # [1.5.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.4.0...@momentum-ui/icons-sketch-kit@1.5.0) (2019-09-25)
 
 
