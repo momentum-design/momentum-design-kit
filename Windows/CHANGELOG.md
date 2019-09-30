@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.8](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.0.7...@momentum-ui/windows-sketch-kit@1.0.8) (2019-09-30)
+
+
+### Bug Fixes
+
+* **windows:** update document colors in library settings to align to momentum palette. ([8de3109](https://github.com/momentum-design/momentum-design-kit/commit/8de3109))
+
+
+
+
+
 ## [1.0.7](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.0.6...@momentum-ui/windows-sketch-kit@1.0.7) (2019-09-17)
 
 

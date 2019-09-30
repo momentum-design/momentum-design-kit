@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.6.0...@momentum-ui/icons-sketch-kit@1.7.0) (2019-09-30)
+
+
+### Features
+
+* **display_72:** added ([0ed303e](https://github.com/momentum-design/momentum-design-kit/commit/0ed303e))
+* **laptop_72:** added ([ade2252](https://github.com/momentum-design/momentum-design-kit/commit/ade2252))
+* **scan_20/24:** added ([381023a](https://github.com/momentum-design/momentum-design-kit/commit/381023a))
+
+
+
+
+
 # [1.6.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.5.0...@momentum-ui/icons-sketch-kit@1.6.0) (2019-09-26)
 
 
