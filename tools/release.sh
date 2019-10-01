@@ -64,6 +64,15 @@ for i in $changed;
 do
   directory="$(echo $i | cut -d':' -f1)"
   cd $directory
+  
+  tagVersion=$(cat package.json \
+  | grep version \
+  | head -1 \
+  | awk -F: '{ print $2 }' \
+  | sed 's/[",]//g' \
+  | tr -d '[[:space:]]')
+  echo $tagVersion
+  
   npm run publishRSS -- --name=$directory --v=$tagVersion
 done
 
