@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.10](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.0.9...@momentum-ui/ios-sketch-kit@1.0.10) (2019-10-04)
+
+
+### Bug Fixes
+
+* **ios:** update ios navigation font color ([92b079e](https://github.com/momentum-design/momentum-design-kit/commit/92b079e))
+
+
+
+
+
 ## [1.0.9](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.0.8...@momentum-ui/ios-sketch-kit@1.0.9) (2019-10-04)
 
 **Note:** Version bump only for package @momentum-ui/ios-sketch-kit
