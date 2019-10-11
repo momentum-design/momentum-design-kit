@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.9.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.8.0...@momentum-ui/icons-sketch-kit@1.9.0) (2019-10-11)
+
+
+### Features
+
+* **video-effect_12:** added ([2a9946f](https://github.com/momentum-design/momentum-design-kit/commit/2a9946f))
+
+
+
+
+
 # [1.8.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.7.1...@momentum-ui/icons-sketch-kit@1.8.0) (2019-10-10)
 
 

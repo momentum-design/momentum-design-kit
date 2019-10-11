@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.0.0...@momentum-ui/web-sketch-kit@2.0.1) (2019-10-11)
+
+
+### Bug Fixes
+
+* **web:** text and icon input alignment ([b7caec1](https://github.com/momentum-design/momentum-design-kit/commit/b7caec1))
+
+
+
+
+
 # [2.0.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@1.0.6...@momentum-ui/web-sketch-kit@2.0.0) (2019-10-04)
 
 
