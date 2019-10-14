@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.9.0...@momentum-ui/icons-sketch-kit@1.10.0) (2019-10-14)
+
+
+### Features
+
+* **webex-share_14:** added ([a1a0b8c](https://github.com/momentum-design/momentum-design-kit/commit/a1a0b8c))
+
+
+
+
+
 # [1.9.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.8.0...@momentum-ui/icons-sketch-kit@1.9.0) (2019-10-11)
 
 
