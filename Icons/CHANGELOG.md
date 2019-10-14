@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.10.0...@momentum-ui/icons-sketch-kit@1.11.0) (2019-10-14)
+
+
+### Features
+
+* **help-circle_14:** added ([5f0e985](https://github.com/momentum-design/momentum-design-kit/commit/5f0e985))
+* **server-error:** added ([2685a6b](https://github.com/momentum-design/momentum-design-kit/commit/2685a6b))
+
+
+
+
+
 # [1.10.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.9.0...@momentum-ui/icons-sketch-kit@1.10.0) (2019-10-14)
 
 
