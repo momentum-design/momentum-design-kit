@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.12.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.11.0...@momentum-ui/icons-sketch-kit@1.12.0) (2019-10-15)
+
+
+### Features
+
+* **pin-list_16/20:** added ([10922c3](https://github.com/momentum-design/momentum-design-kit/commit/10922c3))
+* **sort-down_20/24:** added ([ae983ea](https://github.com/momentum-design/momentum-design-kit/commit/ae983ea))
+* **sort-up_20/24:** added ([0625c64](https://github.com/momentum-design/momentum-design-kit/commit/0625c64))
+
+
+
+
+
 # [1.11.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.10.0...@momentum-ui/icons-sketch-kit@1.11.0) (2019-10-14)
 
 
