@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.12.0...@momentum-ui/icons-sketch-kit@1.13.0) (2019-10-17)
+
+
+### Features
+
+* **microphone-muted_32:** added ([69b132e](https://github.com/momentum-design/momentum-design-kit/commit/69b132e))
+* **speaker-muted_32:** added ([2cae47a](https://github.com/momentum-design/momentum-design-kit/commit/2cae47a))
+
+
+
+
+
 # [1.12.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.11.0...@momentum-ui/icons-sketch-kit@1.12.0) (2019-10-15)
 
 
