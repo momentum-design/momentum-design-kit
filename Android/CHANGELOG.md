@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.0.9...@momentum-ui/android-sketch-kit@1.1.0) (2019-10-21)
+
+
+### Features
+
+* **space-list:** list items with icons added ([9eb4b1d](https://github.com/momentum-design/momentum-design-kit/commit/9eb4b1d))
+
+
+
+
+
 ## [1.0.9](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.0.8...@momentum-ui/android-sketch-kit@1.0.9) (2019-10-21)
 
 

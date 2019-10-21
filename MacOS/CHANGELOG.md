@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/macos-sketch-kit@1.0.8...@momentum-ui/macos-sketch-kit@1.1.0) (2019-10-21)
+
+
+### Features
+
+* **all components:** reorganized symbol structure and removed duplicates ([d646722](https://github.com/momentum-design/momentum-design-kit/commit/d646722))
+* **macos:** reorganized symbol structure and removed duplicates ([97a78d0](https://github.com/momentum-design/momentum-design-kit/commit/97a78d0))
+* **ui templates:** updated color ([df45a19](https://github.com/momentum-design/momentum-design-kit/commit/df45a19))
+* **ui-templates:** colors updated ([f3ed56c](https://github.com/momentum-design/momentum-design-kit/commit/f3ed56c))
+* **ui-templates:** naming updated ([ec975bc](https://github.com/momentum-design/momentum-design-kit/commit/ec975bc))
+
+
+
+
+
 ## [1.0.8](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/macos-sketch-kit@1.0.7...@momentum-ui/macos-sketch-kit@1.0.8) (2019-09-30)
 
 
