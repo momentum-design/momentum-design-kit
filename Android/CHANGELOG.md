@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.1.0...@momentum-ui/android-sketch-kit@1.2.0) (2019-10-22)
+
+
+### Features
+
+* **ui-templates:** tabs structure updated ([f498be7](https://github.com/momentum-design/momentum-design-kit/commit/f498be7))
+
+
+
+
+
 # [1.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.0.9...@momentum-ui/android-sketch-kit@1.1.0) (2019-10-21)
 
 
