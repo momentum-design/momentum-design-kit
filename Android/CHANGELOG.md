@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.2.0...@momentum-ui/android-sketch-kit@1.3.0) (2019-10-22)
+
+
+### Bug Fixes
+
+* **ui-templates:** color updated ([ed69258](https://github.com/momentum-design/momentum-design-kit/commit/ed69258))
+* **ui-templates/tabs:** color and naming fixed ([aaf0cf4](https://github.com/momentum-design/momentum-design-kit/commit/aaf0cf4))
+
+
+### Features
+
+* **space-list:** color and icons updated ([94b6b5d](https://github.com/momentum-design/momentum-design-kit/commit/94b6b5d))
+
+
+
+
+
 # [1.2.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.1.0...@momentum-ui/android-sketch-kit@1.2.0) (2019-10-22)
 
 

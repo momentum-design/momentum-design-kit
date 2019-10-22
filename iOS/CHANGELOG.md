@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.1.0...@momentum-ui/ios-sketch-kit@1.2.0) (2019-10-22)
+
+
+### Bug Fixes
+
+* **list:** constraints fixed ([25eaaf2](https://github.com/momentum-design/momentum-design-kit/commit/25eaaf2))
+* **ui-templates/tabs:** color and naming fixed ([f254f43](https://github.com/momentum-design/momentum-design-kit/commit/f254f43))
+
+
+### Features
+
+* **ui-templates:** tabs structure updated ([8adbda4](https://github.com/momentum-design/momentum-design-kit/commit/8adbda4))
+
+
+
+
+
 # [1.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.0.10...@momentum-ui/ios-sketch-kit@1.1.0) (2019-10-22)
 
 
