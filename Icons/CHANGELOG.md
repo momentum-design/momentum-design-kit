@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.15.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.14.0...@momentum-ui/icons-sketch-kit@1.15.0) (2019-10-23)
+
+
+### Features
+
+* **drive-mode_20:** updated ([30ff37f](https://github.com/momentum-design/momentum-design-kit/commit/30ff37f))
+* **screenshot_24:** added ([8b64e7d](https://github.com/momentum-design/momentum-design-kit/commit/8b64e7d))
+
+
+
+
+
 # [1.14.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.13.0...@momentum-ui/icons-sketch-kit@1.14.0) (2019-10-22)
 
 
