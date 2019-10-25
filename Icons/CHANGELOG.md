@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.16.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.15.0...@momentum-ui/icons-sketch-kit@1.16.0) (2019-10-25)
+
+
+### Features
+
+* **beta_20:** added ([d961e29](https://github.com/momentum-design/momentum-design-kit/commit/d961e29))
+* **beta-active_20:** added ([86841af](https://github.com/momentum-design/momentum-design-kit/commit/86841af))
+
+
+
+
+
 # [1.15.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.14.0...@momentum-ui/icons-sketch-kit@1.15.0) (2019-10-23)
 
 
