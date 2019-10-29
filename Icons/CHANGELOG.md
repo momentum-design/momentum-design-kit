@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.18.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.17.0...@momentum-ui/icons-sketch-kit@1.18.0) (2019-10-29)
+
+
+### Features
+
+* **emoji-food_16:** added ([4416c6d](https://github.com/momentum-design/momentum-design-kit/commit/4416c6d))
+* **emoji-heart_16:** added ([5ef217c](https://github.com/momentum-design/momentum-design-kit/commit/5ef217c))
+* **emoji-nature_16:** added ([59d973b](https://github.com/momentum-design/momentum-design-kit/commit/59d973b))
+* **emoji-people_16:** added ([52709f2](https://github.com/momentum-design/momentum-design-kit/commit/52709f2))
+
+
+
+
+
 # [1.17.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.16.0...@momentum-ui/icons-sketch-kit@1.17.0) (2019-10-28)
 
 
