@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.0.9...@momentum-ui/windows-sketch-kit@1.1.0) (2019-10-30)
+
+
+### Features
+
+* **all components:** all information architecture updated ([823e104](https://github.com/momentum-design/momentum-design-kit/commit/823e104))
+* **all components:** information architecture updated ([ad6d58f](https://github.com/momentum-design/momentum-design-kit/commit/ad6d58f))
+* **buttons:** pill and circle button consolidations ([f8752e5](https://github.com/momentum-design/momentum-design-kit/commit/f8752e5))
+* **search-input:** versions without hint text removed ([1fc07e1](https://github.com/momentum-design/momentum-design-kit/commit/1fc07e1))
+
+
+
+
+
 ## [1.0.9](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.0.8...@momentum-ui/windows-sketch-kit@1.0.9) (2019-10-18)
 
 
