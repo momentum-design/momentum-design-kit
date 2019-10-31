@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.0.1...@momentum-ui/web-sketch-kit@2.1.0) (2019-10-31)
+
+
+### Features
+
+* **cover-page:** update to new library cover pages ([2f1e833](https://github.com/momentum-design/momentum-design-kit/commit/2f1e833))
+
+
+
+
+
 ## [2.0.1](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.0.0...@momentum-ui/web-sketch-kit@2.0.1) (2019-10-11)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.3.0...@momentum-ui/android-sketch-kit@1.4.0) (2019-10-31)
+
+
+### Features
+
+* **cover-page:** update to new library cover pages ([dc3dd99](https://github.com/momentum-design/momentum-design-kit/commit/dc3dd99))
+
+
+
+
+
 # [1.3.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.2.0...@momentum-ui/android-sketch-kit@1.3.0) (2019-10-22)
 
 
