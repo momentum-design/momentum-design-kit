@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.1.0...@momentum-ui/windows-sketch-kit@1.2.0) (2019-10-31)
+
+
+### Features
+
+* **all components:** colors fixed ([d0285a5](https://github.com/momentum-design/momentum-design-kit/commit/d0285a5))
+
+
+
+
+
 # [1.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.0.9...@momentum-ui/windows-sketch-kit@1.1.0) (2019-10-30)
 
 
