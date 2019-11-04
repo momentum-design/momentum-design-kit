@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.20.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.19.0...@momentum-ui/icons-sketch-kit@1.20.0) (2019-11-04)
+
+
+### Features
+
+* **tap_20:** added ([3f81749](https://github.com/momentum-design/momentum-design-kit/commit/3f81749))
+* **telepresence_14:** added ([0c2b954](https://github.com/momentum-design/momentum-design-kit/commit/0c2b954))
+
+
+
+
+
 # [1.19.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.18.0...@momentum-ui/icons-sketch-kit@1.19.0) (2019-10-31)
 
 
