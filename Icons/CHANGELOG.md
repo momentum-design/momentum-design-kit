@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.21.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.20.0...@momentum-ui/icons-sketch-kit@1.21.0) (2019-11-06)
+
+
+### Features
+
+* **audio-options_40:** added ([c754086](https://github.com/momentum-design/momentum-design-kit/commit/c754086))
+* **cloud-upload_24:** added ([f413b38](https://github.com/momentum-design/momentum-design-kit/commit/f413b38))
+
+
+
+
+
 # [1.20.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.19.0...@momentum-ui/icons-sketch-kit@1.20.0) (2019-11-04)
 
 
