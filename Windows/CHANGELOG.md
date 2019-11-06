@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.3.0...@momentum-ui/windows-sketch-kit@1.3.1) (2019-11-06)
+
+
+### Bug Fixes
+
+* **all components:** layers renamed to match new ia ([6acd99a](https://github.com/momentum-design/momentum-design-kit/commit/6acd99a))
+* **calendar:** color updated ([84bfe8c](https://github.com/momentum-design/momentum-design-kit/commit/84bfe8c))
+* **pill button:** constraints updated to keep old symbols from breaking ([857fa93](https://github.com/momentum-design/momentum-design-kit/commit/857fa93))
+* **ui templates:** color updated ([e8f4f7c](https://github.com/momentum-design/momentum-design-kit/commit/e8f4f7c))
+
+
+
+
+
 # [1.3.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.2.0...@momentum-ui/windows-sketch-kit@1.3.0) (2019-10-31)
 
 
