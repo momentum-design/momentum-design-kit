@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.1.0...@momentum-ui/web-sketch-kit@2.2.0) (2019-11-13)
+
+
+### Features
+
+* **check/radio/toggle:** naming updated ([3e692cc](https://github.com/momentum-design/momentum-design-kit/commit/3e692cc))
+* **list-item:** list renamed to list-item ([72a6ea0](https://github.com/momentum-design/momentum-design-kit/commit/72a6ea0))
+* **space-list-item:** naming updated ([83b0b4f](https://github.com/momentum-design/momentum-design-kit/commit/83b0b4f))
+* **space-list-item:** with-icon variation added ([415e478](https://github.com/momentum-design/momentum-design-kit/commit/415e478))
+* **tag:** green variation added ([9306b91](https://github.com/momentum-design/momentum-design-kit/commit/9306b91))
+* **tag:** token renamed to tag ([515026a](https://github.com/momentum-design/momentum-design-kit/commit/515026a))
+* **text-input/search-input:** naming updated and constraints optimized ([571535e](https://github.com/momentum-design/momentum-design-kit/commit/571535e))
+
+
+
+
+
 # [2.1.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.0.1...@momentum-ui/web-sketch-kit@2.1.0) (2019-10-31)
 
 

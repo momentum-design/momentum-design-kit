@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.22.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.21.0...@momentum-ui/icons-sketch-kit@1.22.0) (2019-11-13)
+
+
+### Bug Fixes
+
+* **3d-object:** updated ([7f85895](https://github.com/momentum-design/momentum-design-kit/commit/7f85895))
+* **blur_12:** updated ([37a9ec7](https://github.com/momentum-design/momentum-design-kit/commit/37a9ec7))
+* **camera_12/14:** updated ([4f3818e](https://github.com/momentum-design/momentum-design-kit/commit/4f3818e))
+
+
+### Features
+
+* **announcement:** renamed from feedback ([dbd28b4](https://github.com/momentum-design/momentum-design-kit/commit/dbd28b4))
+* **call-log_20:** added ([90954bf](https://github.com/momentum-design/momentum-design-kit/commit/90954bf))
+* **call-log-active_20:** added ([7a6306b](https://github.com/momentum-design/momentum-design-kit/commit/7a6306b))
+* **commenting_16/20/24:** added ([20f4b6b](https://github.com/momentum-design/momentum-design-kit/commit/20f4b6b))
+* **dnd-active_14/24:** added ([8241778](https://github.com/momentum-design/momentum-design-kit/commit/8241778))
+* **folder:** renamed from files ([636059d](https://github.com/momentum-design/momentum-design-kit/commit/636059d))
+* **google_16:** added ([d62d303](https://github.com/momentum-design/momentum-design-kit/commit/d62d303))
+* **handset-presence-active_14/24:** added ([91bb2d3](https://github.com/momentum-design/momentum-design-kit/commit/91bb2d3))
+* **open-pages_12/14:** added ([2e944f1](https://github.com/momentum-design/momentum-design-kit/commit/2e944f1))
+* **pause-circle-active_16/24:** added ([c998259](https://github.com/momentum-design/momentum-design-kit/commit/c998259))
+* **pin-list_12:** added ([f1e768f](https://github.com/momentum-design/momentum-design-kit/commit/f1e768f))
+* **reply-list_12:** added ([cf4fdcd](https://github.com/momentum-design/momentum-design-kit/commit/cf4fdcd))
+* **share-screen-active_14/24:** added ([e44ef51](https://github.com/momentum-design/momentum-design-kit/commit/e44ef51))
+* **shield_12:** added ([49920ba](https://github.com/momentum-design/momentum-design-kit/commit/49920ba))
+
+
+
+
+
 # [1.21.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.20.0...@momentum-ui/icons-sketch-kit@1.21.0) (2019-11-06)
 
 
