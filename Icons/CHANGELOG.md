@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.23.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.22.0...@momentum-ui/icons-sketch-kit@1.23.0) (2019-11-18)
+
+
+### Features
+
+* **capture-rewind_16:** added ([9a96147](https://github.com/momentum-design/momentum-design-kit/commit/9a96147))
+* **generic-voice-command-legacy:** moved to legacy status ([9925477](https://github.com/momentum-design/momentum-design-kit/commit/9925477))
+* **shield_14/24:** added ([935bd7f](https://github.com/momentum-design/momentum-design-kit/commit/935bd7f))
+* **voice_20:** added ([974bc96](https://github.com/momentum-design/momentum-design-kit/commit/974bc96))
+
+
+
+
+
 # [1.22.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.21.0...@momentum-ui/icons-sketch-kit@1.22.0) (2019-11-13)
 
 
