@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.2](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.3.1...@momentum-ui/windows-sketch-kit@1.3.2) (2019-11-19)
+
+
+### Bug Fixes
+
+* **text/search-input:** constraints updated ([eb3d4d2](https://github.com/momentum-design/momentum-design-kit/commit/eb3d4d2))
+
+
+
+
+
 ## [1.3.1](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/windows-sketch-kit@1.3.0...@momentum-ui/windows-sketch-kit@1.3.1) (2019-11-06)
 
 
