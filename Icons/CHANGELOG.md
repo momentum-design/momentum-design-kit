@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.24.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.23.0...@momentum-ui/icons-sketch-kit@1.24.0) (2019-11-20)
+
+
+### Bug Fixes
+
+* **analysis_48:** fixed for font ([9f7bbfe](https://github.com/momentum-design/momentum-design-kit/commit/9f7bbfe))
+
+
+### Features
+
+* **closed-caption_12/16/20:** updated ([cfd8bd0](https://github.com/momentum-design/momentum-design-kit/commit/cfd8bd0))
+* **closed-caption-badge_12/16/20:** renamed from closed-caption ([113b1c5](https://github.com/momentum-design/momentum-design-kit/commit/113b1c5))
+* **closed-caption-badge_12/16/20:** renamed from closed-caption ([70b1ab3](https://github.com/momentum-design/momentum-design-kit/commit/70b1ab3))
+* **gif_16/20/24:** updated ([8cf8e62](https://github.com/momentum-design/momentum-design-kit/commit/8cf8e62))
+* **gif_16/20/24:** updated ([56e38fc](https://github.com/momentum-design/momentum-design-kit/commit/56e38fc))
+* **remote-desktop-control_16:** added ([4a2eab4](https://github.com/momentum-design/momentum-design-kit/commit/4a2eab4))
+
+
+
+
+
 # [1.23.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.22.0...@momentum-ui/icons-sketch-kit@1.23.0) (2019-11-18)
 
 
