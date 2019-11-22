@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.25.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.24.0...@momentum-ui/icons-sketch-kit@1.25.0) (2019-11-22)
+
+
+### Bug Fixes
+
+* **spinner:** restructured at all sizes to fix display issues ([fdbeb7e](https://github.com/momentum-design/momentum-design-kit/commit/fdbeb7e))
+
+
+### Features
+
+* **closed-caption_24:** added ([929bb1c](https://github.com/momentum-design/momentum-design-kit/commit/929bb1c))
+* **multiple:** layer order updated to fix icon font issues ([03da5b2](https://github.com/momentum-design/momentum-design-kit/commit/03da5b2))
+
+
+
+
+
 # [1.24.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.23.0...@momentum-ui/icons-sketch-kit@1.24.0) (2019-11-20)
 
 
