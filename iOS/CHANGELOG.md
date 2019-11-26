@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.3.0...@momentum-ui/ios-sketch-kit@1.4.0) (2019-11-26)
+
+
+### Features
+
+* **all components:** information architecture updated ([3bdc4b8](https://github.com/momentum-design/momentum-design-kit/commit/3bdc4b8))
+* **circle-button:** sizes and modes consolidated to match token specs ([488efba](https://github.com/momentum-design/momentum-design-kit/commit/488efba))
+* **pill-button:** modes consolidated to match token specs and removed decorative colors ([81dd448](https://github.com/momentum-design/momentum-design-kit/commit/81dd448))
+
+
+
+
+
 # [1.3.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.2.0...@momentum-ui/ios-sketch-kit@1.3.0) (2019-10-31)
 
 

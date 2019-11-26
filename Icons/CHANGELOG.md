@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.26.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.25.0...@momentum-ui/icons-sketch-kit@1.26.0) (2019-11-26)
+
+
+### Features
+
+* **call-voicemail_12:** added ([faa573c](https://github.com/momentum-design/momentum-design-kit/commit/faa573c))
+* **transcript_20:** added ([b3c8cdc](https://github.com/momentum-design/momentum-design-kit/commit/b3c8cdc))
+* **waveform_20:** added ([8eaab9a](https://github.com/momentum-design/momentum-design-kit/commit/8eaab9a))
+
+
+
+
+
 # [1.25.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.24.0...@momentum-ui/icons-sketch-kit@1.25.0) (2019-11-22)
 
 
