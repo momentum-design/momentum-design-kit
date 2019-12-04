@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.27.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.26.0...@momentum-ui/icons-sketch-kit@1.27.0) (2019-12-04)
+
+
+### Features
+
+* **call-voicemail_16:** added ([d1fa7d0](https://github.com/momentum-design/momentum-design-kit/commit/d1fa7d0))
+* **content-share_56/120/124:** added ([6c75be9](https://github.com/momentum-design/momentum-design-kit/commit/6c75be9))
+* **handset-presence-active_14/24:** updated ([d9d18a6](https://github.com/momentum-design/momentum-design-kit/commit/d9d18a6))
+* **people_120:** added ([ea6e43f](https://github.com/momentum-design/momentum-design-kit/commit/ea6e43f))
+* **recurring-off_16:** added ([b046b9d](https://github.com/momentum-design/momentum-design-kit/commit/b046b9d))
+* **recurring-off_16:** updated ([563ea3d](https://github.com/momentum-design/momentum-design-kit/commit/563ea3d))
+* **ucm-cloud_10:** added ([2de7162](https://github.com/momentum-design/momentum-design-kit/commit/2de7162))
+
+
+
+
+
 # [1.26.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.25.0...@momentum-ui/icons-sketch-kit@1.26.0) (2019-11-26)
 
 
