@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.28.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.27.0...@momentum-ui/icons-sketch-kit@1.28.0) (2019-12-06)
+
+
+### Features
+
+* **bug_16:** added ([b7823a0](https://github.com/momentum-design/momentum-design-kit/commit/b7823a0))
+* **file-excel_12/16/24/28/32/36/40/44/72:** added ([b8719c7](https://github.com/momentum-design/momentum-design-kit/commit/b8719c7))
+* **file-excel-active_12/16/24/28/32/36/40/44/72:** added ([89b65b2](https://github.com/momentum-design/momentum-design-kit/commit/89b65b2))
+* **file-graph:** all sizes updated ([46be884](https://github.com/momentum-design/momentum-design-kit/commit/46be884))
+* **file-graph-active_12/16/20/24/28/32/36/40/44/72:** added ([6e3be74](https://github.com/momentum-design/momentum-design-kit/commit/6e3be74))
+* **file-onenote_12/16/24/28/32/36/40/44/72:** added ([ef40817](https://github.com/momentum-design/momentum-design-kit/commit/ef40817))
+* **file-onenote-active_12/16/24/28/32/36/40/44/72:** added ([25381c5](https://github.com/momentum-design/momentum-design-kit/commit/25381c5))
+* **file-pdf:** all sizes updated ([ca9060b](https://github.com/momentum-design/momentum-design-kit/commit/ca9060b))
+* **file-pdf-active_12/16/20/24/28/32/36/40/44/72:** added ([0d0b83c](https://github.com/momentum-design/momentum-design-kit/commit/0d0b83c))
+* **file-powerpoint_12/16/24/28/32/36/40/44/72:** added ([0aeb88b](https://github.com/momentum-design/momentum-design-kit/commit/0aeb88b))
+* **file-powerpoint-active_12/16/24/28/32/36/40/44/72:** added ([2314d92](https://github.com/momentum-design/momentum-design-kit/commit/2314d92))
+* **file-spreadsheet:** all sizes updated ([12d5116](https://github.com/momentum-design/momentum-design-kit/commit/12d5116))
+* **file-spreadsheet-active_12/16/20/24/28/32/36/40/44/72:** added ([d19bebd](https://github.com/momentum-design/momentum-design-kit/commit/d19bebd))
+* **file-text:** all sizes updated ([cbe0d96](https://github.com/momentum-design/momentum-design-kit/commit/cbe0d96))
+* **file-text-active_12/16/20/24/28/32/36/40/44/72:** added ([fb8a37e](https://github.com/momentum-design/momentum-design-kit/commit/fb8a37e))
+* **file-word_12/16/24/28/32/36/40/44/72:** added ([f27a8e4](https://github.com/momentum-design/momentum-design-kit/commit/f27a8e4))
+* **file-word-active_12/16/24/28/32/36/40/44/72:** added ([013362f](https://github.com/momentum-design/momentum-design-kit/commit/013362f))
+* **language_28:** added ([9f5ee86](https://github.com/momentum-design/momentum-design-kit/commit/9f5ee86))
+* **meeting-controls_16:** added ([821b258](https://github.com/momentum-design/momentum-design-kit/commit/821b258))
+* **secure-circle_14/16:** added ([bbbc45a](https://github.com/momentum-design/momentum-design-kit/commit/bbbc45a))
+
+
+
+
+
 # [1.27.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.26.0...@momentum-ui/icons-sketch-kit@1.27.0) (2019-12-04)
 
 
