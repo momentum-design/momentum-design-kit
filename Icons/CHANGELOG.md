@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.29.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.28.0...@momentum-ui/icons-sketch-kit@1.29.0) (2019-12-09)
+
+
+### Bug Fixes
+
+* **share-screen_14:** fixed corner radii ([2fc4c8e](https://github.com/momentum-design/momentum-design-kit/commit/2fc4c8e))
+
+
+### Features
+
+* **secure-circle-active_14/16:** added ([607447b](https://github.com/momentum-design/momentum-design-kit/commit/607447b))
+
+
+
+
+
 # [1.28.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.27.0...@momentum-ui/icons-sketch-kit@1.28.0) (2019-12-06)
 
 
