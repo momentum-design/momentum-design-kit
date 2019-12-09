@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.4.0...@momentum-ui/ios-sketch-kit@1.5.0) (2019-12-09)
+
+
+### Features
+
+* **list-item:** tweaked spacing and some color ([6b48355](https://github.com/momentum-design/momentum-design-kit/commit/6b48355))
+
+
+
+
+
 # [1.4.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.3.0...@momentum-ui/ios-sketch-kit@1.4.0) (2019-11-26)
 
 
