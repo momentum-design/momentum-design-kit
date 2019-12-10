@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.30.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.29.0...@momentum-ui/icons-sketch-kit@1.30.0) (2019-12-10)
+
+
+### Features
+
+* **camera-presence-stroke_16/26:** added ([f1d4a0e](https://github.com/momentum-design/momentum-design-kit/commit/f1d4a0e))
+* **contact-card-active_20:** added ([04da1f2](https://github.com/momentum-design/momentum-design-kit/commit/04da1f2))
+* **dnd-presence-stroke_16/26:** added ([a1933d1](https://github.com/momentum-design/momentum-design-kit/commit/a1933d1))
+* **handset-presence-stroke_16/26:** added ([81669e2](https://github.com/momentum-design/momentum-design-kit/commit/81669e2))
+* **meetings-presence-stroke_16/26:** added ([a5a97b4](https://github.com/momentum-design/momentum-design-kit/commit/a5a97b4))
+* **play_14:** added ([8bdd531](https://github.com/momentum-design/momentum-design-kit/commit/8bdd531))
+* **recents-presence-stroke_16/26:** added ([4e2362d](https://github.com/momentum-design/momentum-design-kit/commit/4e2362d))
+* **response_16:** added ([65ebd62](https://github.com/momentum-design/momentum-design-kit/commit/65ebd62))
+* **share-screen-presence-stroke_16/26:** added ([4eef5d4](https://github.com/momentum-design/momentum-design-kit/commit/4eef5d4))
+* **shield_20:** added ([15d7335](https://github.com/momentum-design/momentum-design-kit/commit/15d7335))
+
+
+
+
+
 # [1.29.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.28.0...@momentum-ui/icons-sketch-kit@1.29.0) (2019-12-09)
 
 
