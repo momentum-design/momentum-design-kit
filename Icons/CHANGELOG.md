@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.31.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.30.0...@momentum-ui/icons-sketch-kit@1.31.0) (2019-12-15)
+
+
+### Features
+
+* **audio-video_20:** added ([852b5f7](https://github.com/momentum-design/momentum-design-kit/commit/852b5f7))
+* **camera-presence_8/12/28:** added ([ebc8d6f](https://github.com/momentum-design/momentum-design-kit/commit/ebc8d6f))
+* **camera-presence-stroke_10/14/30:** added ([78923ea](https://github.com/momentum-design/momentum-design-kit/commit/78923ea))
+* **dnd-presence_8/12/28:** added ([da91eb8](https://github.com/momentum-design/momentum-design-kit/commit/da91eb8))
+* **dnd-presence-stroke_10/14/30:** added ([c1e8a6a](https://github.com/momentum-design/momentum-design-kit/commit/c1e8a6a))
+* **handset-presence_8/12/28:** added ([3384bdb](https://github.com/momentum-design/momentum-design-kit/commit/3384bdb))
+* **handset-presence-stroke_10/14/30:** added ([e8518f3](https://github.com/momentum-design/momentum-design-kit/commit/e8518f3))
+* **headset_8:** added ([3096a90](https://github.com/momentum-design/momentum-design-kit/commit/3096a90))
+* **meetings-presence_8/12/28:** added ([fb6662c](https://github.com/momentum-design/momentum-design-kit/commit/fb6662c))
+* **meetings-presence-stroke_10/14/30:** added ([adb6ed6](https://github.com/momentum-design/momentum-design-kit/commit/adb6ed6))
+* **recents-presence_8/12/28:** added ([6b95411](https://github.com/momentum-design/momentum-design-kit/commit/6b95411))
+* **recents-presence-stroke_8/12/28:** added ([d3e526d](https://github.com/momentum-design/momentum-design-kit/commit/d3e526d))
+* **share-screen-presence_8/12/28:** added ([fb31150](https://github.com/momentum-design/momentum-design-kit/commit/fb31150))
+* **share-screen-presence-stroke_10/14/30:** added ([ac9d2f0](https://github.com/momentum-design/momentum-design-kit/commit/ac9d2f0))
+
+
+
+
+
 # [1.30.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.29.0...@momentum-ui/icons-sketch-kit@1.30.0) (2019-12-10)
 
 
