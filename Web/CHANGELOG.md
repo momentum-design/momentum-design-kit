@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.2](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.2.1...@momentum-ui/web-sketch-kit@2.2.2) (2019-12-16)
+
+
+### Bug Fixes
+
+* **tag:** constraints updated ([62e8b88](https://github.com/momentum-design/momentum-design-kit/commit/62e8b88))
+
+
+
+
+
 ## [2.2.1](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.2.0...@momentum-ui/web-sketch-kit@2.2.1) (2019-12-16)
 
 
