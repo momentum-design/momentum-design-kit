@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.3.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.2.2...@momentum-ui/web-sketch-kit@2.3.0) (2019-12-17)
+
+
+### Features
+
+* **all components:** apply smart layout constraints to core components ([2e94338](https://github.com/momentum-design/momentum-design-kit/commit/2e94338))
+
+
+
+
+
 ## [2.2.2](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/web-sketch-kit@2.2.1...@momentum-ui/web-sketch-kit@2.2.2) (2019-12-16)
 
 
