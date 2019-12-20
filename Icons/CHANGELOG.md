@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.33.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.32.0...@momentum-ui/icons-sketch-kit@1.33.0) (2019-12-20)
+
+
+### Features
+
+* **check-circle_18:** added ([1044cf9](https://github.com/momentum-design/momentum-design-kit/commit/1044cf9))
+* **plus-cricle-active_20:** added ([76176ea](https://github.com/momentum-design/momentum-design-kit/commit/76176ea))
+
+
+
+
+
 # [1.32.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.31.0...@momentum-ui/icons-sketch-kit@1.32.0) (2019-12-17)
 
 

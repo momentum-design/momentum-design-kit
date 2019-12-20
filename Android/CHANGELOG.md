@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.4.0...@momentum-ui/android-sketch-kit@1.5.0) (2019-12-20)
+
+
+### Features
+
+* **all components:** information architecture updated ([ea25f49](https://github.com/momentum-design/momentum-design-kit/commit/ea25f49))
+* **circle-button:** colors and dark/light modes consolidated ([a078300](https://github.com/momentum-design/momentum-design-kit/commit/a078300))
+* **pill-button:** sizes consolidated to match tokens ([7aa1044](https://github.com/momentum-design/momentum-design-kit/commit/7aa1044))
+
+
+
+
+
 # [1.4.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.3.0...@momentum-ui/android-sketch-kit@1.4.0) (2019-10-31)
 
 
