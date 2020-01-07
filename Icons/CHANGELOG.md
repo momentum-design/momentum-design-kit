@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.34.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.33.0...@momentum-ui/icons-sketch-kit@1.34.0) (2020-01-07)
+
+
+### Features
+
+* **adjust-microphone_12:** added ([af3f7b7](https://github.com/momentum-design/momentum-design-kit/commit/af3f7b7))
+* **clear_140:** added ([347ccd0](https://github.com/momentum-design/momentum-design-kit/commit/347ccd0))
+* **more-circle_140:** added ([bc4bd56](https://github.com/momentum-design/momentum-design-kit/commit/bc4bd56))
+* **rotate-content_24:** added ([707c110](https://github.com/momentum-design/momentum-design-kit/commit/707c110))
+
+
+
+
+
 # [1.33.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/icons-sketch-kit@1.32.0...@momentum-ui/icons-sketch-kit@1.33.0) (2019-12-20)
 
 
