@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.5.0...@momentum-ui/android-sketch-kit@1.6.0) (2020-01-23)
+
+
+### Features
+
+* **button:** updated to ensure consistency across all libraries ([71dd152](https://github.com/momentum-design/momentum-design-kit/commit/71dd152))
+
+
+
+
+
 # [1.5.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/android-sketch-kit@1.4.0...@momentum-ui/android-sketch-kit@1.5.0) (2019-12-20)
 
 

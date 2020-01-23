@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/macos-sketch-kit@1.2.0...@momentum-ui/macos-sketch-kit@1.3.0) (2020-01-23)
+
+
+### Features
+
+* **button:** updated to ensure consistency across all libraries ([52c4ed2](https://github.com/momentum-design/momentum-design-kit/commit/52c4ed2))
+
+
+
+
+
 # [1.2.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/macos-sketch-kit@1.1.0...@momentum-ui/macos-sketch-kit@1.2.0) (2019-10-31)
 
 

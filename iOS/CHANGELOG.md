@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.5.0...@momentum-ui/ios-sketch-kit@1.6.0) (2020-01-23)
+
+
+### Features
+
+* **button:** updated to ensure consistency across all libraries ([69775e8](https://github.com/momentum-design/momentum-design-kit/commit/69775e8))
+
+
+
+
+
 # [1.5.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.4.0...@momentum-ui/ios-sketch-kit@1.5.0) (2019-12-09)
 
 
