@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.6.0...@momentum-ui/ios-sketch-kit@1.7.0) (2020-02-14)
+
+
+### Features
+
+* **resizable components:** set minimum width on tokens, badges, and buttons ([cfb99e9](https://github.com/momentum-design/momentum-design-kit/commit/cfb99e9))
+
+
+
+
+
 # [1.6.0](https://github.com/momentum-design/momentum-design-kit/compare/@momentum-ui/ios-sketch-kit@1.5.0...@momentum-ui/ios-sketch-kit@1.6.0) (2020-01-23)
 
 
