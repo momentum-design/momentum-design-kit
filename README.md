@@ -26,7 +26,7 @@ Install and always stay up to date by subscribing to the Sketch Library links be
 * **Android Library**:
 <br />`sketch://add-library?url=https%3A%2F%2Fdownloads.momentum-ui.com%2Fui-kits%2Fmomentum-ui-android-sketch-rss.xml`
 
-<p><a href="https://github.com/momentum-design/momentum-desitn-kit/archive/master.zip">or download and install these files manually</a> but please note that you will not receive automatic library updates when using this method.</p>
+<p><a href="https://github.com/momentum-design/momentum-design-kit/archive/master.zip">or download and install these files manually</a> but please note that you will not receive automatic library updates when using this method.</p>
 
 ## Requirements
 
